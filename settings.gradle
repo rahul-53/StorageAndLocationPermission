@@ -1,0 +1,2 @@
+rootProject.name = "StorageAndLocationPermission"
+include ':app'
